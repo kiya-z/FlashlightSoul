@@ -7,7 +7,7 @@
         android:id="@+id/flashlight"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/flashlight_off"
+        android:src="@drawable/flashlight"
          android:layout_gravity="center_horizontal"/>
 
     <ImageView
